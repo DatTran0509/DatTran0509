@@ -1,4 +1,7 @@
-<img src="./swe.gif"/>
+<div align="center">
+  <img src="./swe.gif" width="100%" style="max-width: 1200px;"/>
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dat+Tran!;Software+Engineer;Backend+%26+Full-Stack+Developer;" />
 </h1>
@@ -27,23 +30,25 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,vercel,aws,stripe,cloudinary,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,tailwind,vercel" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,stripe,cloudinary,postman" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DatTran0509&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatTran0509&show_icons=true&hide_border=true&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DatTran0509&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatTran0509&show_icons=true&hide_border=true&layout=compact&theme=dark" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DatTran0509&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatTran0509&theme=dark&hide_border=true" />
+</div>
 
 <br/>
 
